@@ -94,14 +94,14 @@
 	<distributionManagement>
 	    <repository>
 	      <id>nexus</id>
-	      <name>Landmark Technologies Releases Nexus Repository</name>
-	      <url>http://172.31.4.141:8181/mylandmarktech/repository/tesla-web-releases/</url>
+	      <name>Tmobile Releases Nexus Repository</name>
+	      <url>http://54.165.145.168:8181/mypaypal/repository/Tmobile-release/</url>
 	    </repository>
 	    
 	    <snapshotRepository>
 	      <id>nexus</id>
-	      <name>Landmark Technologies Snapshot Nexus Repository </name>
-	      <url>http://172.31.4.141:8181/mylandmarktech/repository/tesla-webapp-snapshots/</url>
+	      <name>Tmobile Snapshot Nexus Repository</name>
+	      <url>http://54.165.145.168:8181/mypaypal/repository/Tmobile-snapshot/</url>
 	    </snapshotRepository>
 	    
 	</distributionManagement>
