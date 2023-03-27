@@ -107,7 +107,7 @@
 	</distributionManagement>
 	
 	<build>
-		<finalName>tesla</finalName>
+		<finalName>Tmobile-app</finalName>
 		
 		<plugins>
 			<plugin>
